@@ -19,3 +19,23 @@ __pycache__/
 
 job_scripts/
 temp_ops/
+# ===== Dataset =====
+/data/
+
+# ===== Model checkpoints =====
+/ckpt/
+/checkpoints/
+*.pth
+*.pt
+
+# ===== Experiment outputs =====
+/output/
+/work_dirs/
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+
+# ===== Local environments =====
+.venv/
+
